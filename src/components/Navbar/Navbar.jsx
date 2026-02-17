@@ -1,6 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
+import { SiGeeksforgeeks } from "react-icons/si";
+
+
 
 
 const Navbar = () => {
@@ -87,6 +91,22 @@ const Navbar = () => {
           >
             <FaLinkedin size={24} />
           </a>
+          <a
+            href="https://leetcode.com/u/rajesh918606//"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-300 hover:text-[#8245ec]"
+          >
+            <SiLeetcode size={24} />
+          </a>
+          <a
+            href="https://www.geeksforgeeks.org/profile/rajeshkum80ak/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gray-300 hover:text-[#8245ec]"
+          >
+            <SiGeeksforgeeks size={24} />
+          </a>
         </div>
 
         {/* Mobile Menu Icon */}
@@ -138,6 +158,22 @@ const Navbar = () => {
                 className="text-gray-300 hover:text-white"
               >
                 <FaLinkedin size={24} />
+              </a>
+              <a
+                href="https://leetcode.com/u/rajesh918606/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-white"
+              >
+                <SiLeetcode size={24} />
+              </a>
+              <a
+                href="https://www.geeksforgeeks.org/profile/rajeshkum80ak/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-white"
+              >
+                <SiGeeksforgeeks size={24} />
               </a>
             </div>
           </ul>
