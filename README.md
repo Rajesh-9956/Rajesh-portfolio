@@ -3,7 +3,7 @@
 A modern, responsive, and high-performance personal portfolio website built using **React, Vite, and Tailwind CSS**.  
 This portfolio showcases my skills, projects, experience, and contact information in a clean and professional design.
 
-🌐 Live Demo: https://Rajesh-portofolio.vercel.app/ 
+🌐 Live Demo: https://rajesh1-portfolio.vercel.app/ 
 
 ---
 
