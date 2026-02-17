@@ -1,9 +1,9 @@
-# 🚀 Jitendra Kumar - Portfolio Website
+# 🚀 Rajesh Kumar - Portfolio Website
 
 A modern, responsive, and high-performance personal portfolio website built using **React, Vite, and Tailwind CSS**.  
 This portfolio showcases my skills, projects, experience, and contact information in a clean and professional design.
 
-🌐 Live Demo: https://jitendra-dev-portfolio.vercel.app/ 
+🌐 Live Demo: https://Rajesh-portofolio.vercel.app/ 
 
 ---
 
@@ -61,7 +61,7 @@ git clone https://github.com/technical-jitendra-kumar/jitendra-dev-portfolio.git
 2️⃣ Navigate to the project folder
 
 ```bash
-cd jitendra-portfolio
+cd Rajesh-portfolio
 ```
 
 3️⃣ Install dependencies
@@ -90,5 +90,5 @@ npm run build
 
 👨‍💻 About Me
 
-I am Jitendra Kumar, a full-stack developer with experience in building scalable web applications using modern technologies.
-I specialize in the MERN stack and love creating clean, responsive, and user-friendly web interfaces.
+I am Rajesh Kumar, a full-stack developer with experience in building scalable web applications using modern technologies.
+I specialize in the .Net  and love creating clean, responsive, and user-friendly web interfaces.
