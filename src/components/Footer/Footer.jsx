@@ -14,7 +14,7 @@ const Footer = () => {
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
-        <h2 className="text-xl font-semibold text-purple-500">Jitendra Kumar</h2>
+        <h2 className="text-xl font-semibold text-purple-500">Rajesh Kumar</h2>
 
         {/* Navigation Links - Responsive */}
         <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mt-4">
@@ -38,11 +38,11 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "https://github.com/technical-jitendra-kumar" },
-            { icon: <FaTwitter />, link: "https://github.com/technical-jitendra-kumar" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/technicaljitendra/" },
-            { icon: <FaInstagram />, link: "https://github.com/technical-jitendra-kumar" },
-            { icon: <FaYoutube />, link: "https://github.com/technical-jitendra-kumar" },
+            { icon: <FaFacebook />, link: "https://github.com/Rajesh-9956" },
+            { icon: <FaTwitter />, link: "https://www.linkedin.com/in/rajesh-kumar9956" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/rajesh-kumar9956" },
+            { icon: <FaInstagram />, link: "https://www.linkedin.com/in/rajesh-kumar9956" },
+            { icon: <FaYoutube />, link: "https://www.linkedin.com/in/rajesh-kumar9956" },
             
           ].map((item, index) => (
             <a

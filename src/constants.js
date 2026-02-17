@@ -40,8 +40,8 @@ import newtonschoolLogo from './assets/company_logo/indolike.jpg';
 
 // Education Section Logo's
 import glaLogo from './assets/education_logo/college.png';
-import bsaLogo from './assets/education_logo/asp.jpg';
-import vpsLogo from './assets/education_logo/mmh.jpg';
+import bsaLogo from './assets/education_logo/mmh.jpg';
+import vpsLogo from './assets/education_logo/asp.jpg';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
@@ -174,35 +174,35 @@ export const SkillsInfo = [
       img: glaLogo,
       school: "AKTU, Lucknow",
       date: "Jun 2021 - July 2025",
-      grade: "7.21 CGPA",
+      grade: "6.77 CGPA",
       desc: "I have completed my B.tech in Computer science Engineering with specialization in Artificial Intelligence and Machine Learning from AKTU, Lucknow. During my time at AKTU, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at AKTU has been instrumental in shaping my technical abilities and professional growth.",
       degree: "B.tech in Computer science Engineering (AIML)",
     },
     {
       id: 1,
       img: bsaLogo,
-      school: "S.S.S Inter college, Jaunpur",
+      school: "M M H V Inter college, GHAZIABAD",
       date: "Jun 2017 - July 2018",
-      grade: "88%",
-      desc: "I completed my Senior Secondary in PCM from S.S.S Inter college, Jaunpur. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at S.S.S Inter college allowed me to work on projects that applied theoretical concepts to real-world problems.",
+      grade: "60%",
+      desc: "I completed my Senior Secondary in PCM from M M H V Inter college, GHAZIABAD. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at M M H V Inter college allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "U.P Board(XII), PCM",
     },
     {
       id: 2,
-      img: vpsLogo,
-      school: "S.D.D N Kerakat , Jaunpur",
+      img: bsaLogo,
+      school: "M M H V Inter college, GHAZIABAD",
       date: "Apr 2015 - March 2016",
-      grade: "83.166%",
-      desc: "I completed my class higher Secondary education from S.D.D N Kerakat , Jaunpur, under the U.P board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
+      grade: "70.16%",
+      desc: "I completed my class higher Secondary education from M M H V Inter college, GHAZIABAD, under the U.P board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
       degree: "U.P Board(X), PCM",
     },
     {
       id: 3,
       img: vpsLogo,
-      school: "Adarsh Juinior School, Jaunpur",
+      school: "ARYA PUBLIC SCHOOL, GHAZIABAD",
       date: "Apr 2013 - March 2014",
       grade: "91.5%",
-      desc: "I completed my class 8th education from Adarsh Juinior School, Jaunpur, under the CBSE board, where I studied Science with Computer.",
+      desc: "I completed my class 8th education from Arya Public School, GHAZIABAD, under the CBSE board, where I studied Science with Computer.",
       degree: "U.P Board(VIII), Science",
     },
   ];
